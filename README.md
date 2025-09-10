@@ -2,7 +2,7 @@
 
 Team Member 1:Seth Williams - slw116@pitt.edu
 Team Member 2:Gu Yiming - yig103@pitt.edu
-Team Member 3:Hanchen Zhu
+Team Member 3:Hanchen Zhu - haz296@pitt.edu
 Team Member 4: Arissa Buchina - ajb321@pitt.edu
 
 Description:
