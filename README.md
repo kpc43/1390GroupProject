@@ -1,7 +1,7 @@
 # Where's Waldo
 
 Team Member 1:Seth Williams - slw116@pitt.edu
-Team Member 2:Gu Yiming
+Team Member 2:Gu Yiming - yig103@pitt.edu
 Team Member 3:Hanchen Zhu
 Team Member 4:
 
